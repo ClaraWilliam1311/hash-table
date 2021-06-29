@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1622892518 source:c:\users\dell\dropbox\my pc (desktop-9ibh472)\desktop\project ds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hashTable.h"
+
+1622892706 source:c:\users\dell\dropbox\my pc (desktop-9ibh472)\desktop\project ds\hashtable.c
+	"hashTable.h"
+	<stdlib.h>
+	<stdio.h>
+
+1622892698 c:\users\dell\dropbox\my pc (desktop-9ibh472)\desktop\project ds\hashtable.h
+	<stdlib.h>
+
